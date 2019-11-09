@@ -6,6 +6,7 @@
   "dependencies": {
     "@types/mongoose": "^5.5.30",
     "fs-extra": "^8.1.0",
+    "mongodb": "^3.3.3",
     "mongoose": "^5.7.9"
   },
   "scripts": {
